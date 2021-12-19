@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bikcraft
+  Animais Fantásticos
 </h1>
 
 ### 💻 Sobre o Projeto
@@ -10,6 +10,5 @@ As seguintes ferramentas estão sendo usadas na construção do projeto:
 * HTML
 * CSS
 * JavaScript
-* PHP
 * Vscode
 
