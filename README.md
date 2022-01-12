@@ -3,12 +3,12 @@
 </h1>
 
 ### 💻 Sobre o Projeto
-Projeto final da Origamid feito a partir dos conteúdos e dos módulos de Web Design Completo. Site de vendedor de bicicletas, chamado Bikcraft, nele eu uso CSS Flexbox e Grid Layout para construir os projetos responsivos e totalmente do zero, sem usar nada pronto,aplicando os fundamentos de Html, Css e JavaScript e PHP.
+Projeto final da Origamid feito a partir dos conteúdos e dos módulos de JavaScript ES6. Site de animais fantásticos, onde eu crio do zero diversos efeitos com JavaScript. Sem nenhum plugin / código pronto, tudo do zero..
 ### 🛠 Tecnologias 
 As seguintes ferramentas estão sendo usadas na construção do projeto:
 
 * HTML
 * CSS
 * JavaScript
-* Vscode
+
 
